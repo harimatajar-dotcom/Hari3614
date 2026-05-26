@@ -1,70 +1,84 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    HERO / ANIMATED HEADER                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Hari%20Prasad%20R&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%E2%9A%A1%20Mobile%20App%20Craftsman%20%E2%9A%A1%20UI%20Perfectionist&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hari%20Prasad%20R&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Flutter%20Engineer%20%E2%9A%A1%20Mobile%20Craftsman%20%E2%9A%A1%20UI%20Perfectionist&descAlignY=62&descSize=20" width="100%"/>
 
 <div align="center">
 
-<!-- Animated Typing SVG - multiple lines cycle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=800&color=00D9F5&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Hari+Prasad!;%F0%9F%9A%80+Flutter+Developer+from+India;%F0%9F%92%99+Turning+Ideas+into+Beautiful+Apps;%E2%9C%A8+Cross-Platform+%7C+iOS+%7C+Android;%F0%9F%8E%A8+Clean+Code+%C3%97+Smooth+UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=56&lines=%F0%9F%91%8B+Hello%2C+World!+I'm+Hari+Prasad;%F0%9F%9A%80+Flutter+Engineer+%E2%80%94+India;%F0%9F%92%99+Ideas+%E2%86%92+Pixel-Perfect+Apps;%E2%9C%A8+Cross-Platform+%7C+iOS+%7C+Android;%F0%9F%8E%AF+Engineering+Elegance+%C3%97+Performance" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<!-- Visitor counter + badges row -->
-<img src="https://komarev.com/ghpvc/?username=hari3614&label=Profile%20Views&color=00d9f5&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/hari3614?label=Followers&style=for-the-badge&color=00d9f5&labelColor=0D1117" />
-<img src="https://img.shields.io/github/stars/hari3614?label=Stars&style=for-the-badge&color=00d9f5&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Coding-Since%202021-00d9f5?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
 
-<!-- Animated wave divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=hari3614&label=Profile+Views&color=38bdf8&style=for-the-badge&labelColor=0f172a" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/hari3614?label=Followers&style=for-the-badge&color=38bdf8&labelColor=0f172a" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/hari3614?label=GitHub+Stars&style=for-the-badge&color=38bdf8&labelColor=0f172a" />
+&nbsp;
+<img src="https://img.shields.io/badge/Engineering-Since%202021-38bdf8?style=for-the-badge&labelColor=0f172a" />
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<br/>
 
-## 🎮 &nbsp; Developer Profile — `hari_prasad.exe`
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<table align="center">
+---
+
+## 🧑‍💻 &nbsp; Engineering Profile — `hari_prasad.exe`
+
+<table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
 ### 🖥️ &nbsp; Live Terminal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=500&color=00D9F5&width=520&height=260&lines=%24+whoami;%3E+hari_prasad_r+%F0%9F%91%8B;%24+cat+.%2Fabout%2Fme.txt;%3E+Flutter+Dev+from+India+%F0%9F%87%AE%F0%9F%87%B3;%3E+Building+beautiful+mobile+apps;%24+ls+.%2Fskills%2F;%3E+flutter+dart+firebase+figma;%24+status+--current;%3E+Coding+%E2%9A%A1+Caffeinated+%E2%98%95;%24+echo+%22let's+connect%22;%3E+hariprasad3614%40gmail.com;%24+_" alt="Terminal" />
+```bash
+$ whoami
+→ hari_prasad_r 👋
+
+$ cat about/me.txt
+→ Flutter Engineer from India 🇮🇳
+→ Building beautiful mobile experiences
+→ Clean code meets stunning UX
+
+$ ls ./stack/
+→ flutter  dart  firebase  figma  hive
+
+$ status --now
+→ Engineering ⚡ Caffeinated ☕
+
+$ echo "reach me"
+→ hariprasad3614@gmail.com
+$  _
+```
 
 <br/>
 
-### 🎯 &nbsp; Active Quests
+### 🎯 &nbsp; Active Missions
 
-- [x] Ship mobile apps to the App Store 🍎
-- [x] Master Flutter animations 💫
-- [ ] Reach a 100-day commit streak 🔥
-- [ ] Publish an open-source Flutter package 📦
-- [ ] Learn Rust for fun 🦀
+- [x] &nbsp; Ship production apps to App Store 🍎
+- [x] &nbsp; Master Flutter animations & motion 💫
+- [ ] &nbsp; Hit a 100-day commit streak 🔥
+- [ ] &nbsp; Publish an open-source Flutter package 📦
+- [ ] &nbsp; Dive into Rust for systems fun 🦀
 
 </td>
-<td width="42%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 
-<img alt="coding" width="370" src="https://steamuserimages-a.akamaihd.net/ugc/90470964761468233/EBE96184DD5BD1AFD12E7550B87CE0E24D9772AB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
+<br/>
+
+<img alt="coding gif" width="360" src="https://steamuserimages-a.akamaihd.net/ugc/90470964761468233/EBE96184DD5BD1AFD12E7550B87CE0E24D9772AB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
 
 <br/><br/>
 
-<table>
-<tr><td>📍 <b>Location</b></td><td>India 🇮🇳</td></tr>
-<tr><td>💼 <b>Role</b></td><td>Mobile App Dev</td></tr>
-<tr><td>🎯 <b>XP</b></td><td>3+ years</td></tr>
-<tr><td>☕ <b>Fuel</b></td><td>Coffee + Curiosity</td></tr>
-<tr><td>💬 <b>Pronouns</b></td><td>he / him</td></tr>
-<tr><td>🌐 <b>Language</b></td><td>EN · ML · HI</td></tr>
-</table>
+| | |
+|---|---|
+| 📍 &nbsp; **Location** | Kerala, India 🇮🇳 |
+| 💼 &nbsp; **Role** | Mobile Software Engineer |
+| 🎯 &nbsp; **Experience** | 3+ Years |
+| 🏗️ &nbsp; **Focus** | Mobile · UI/UX |
+| ☕ &nbsp; **Fuel** | Coffee + Curiosity |
+| 🌐 &nbsp; **Languages** | EN · ML · HI |
 
 </td>
 </tr>
@@ -72,101 +86,101 @@
 
 <br/>
 
-### ⚡ &nbsp; Skill Tree — Leveling Up Daily
+---
+
+## ⚡ &nbsp; Engineering Skill Matrix
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🎯 &nbsp; Core Skills**
+**🎯 &nbsp; Core Engineering**
 
 ```text
-Flutter      ▰▰▰▰▰▰▰▰▰▱  Lv.90
-Dart         ▰▰▰▰▰▰▰▰▰▱  Lv.88
-Mobile UI    ▰▰▰▰▰▰▰▰▱▱  Lv.82
-Firebase     ▰▰▰▰▰▰▰▰▱▱  Lv.80
-REST API     ▰▰▰▰▰▰▰▱▱▱  Lv.75
+Flutter        ████████████░░   Expert
+Dart           ███████████░░░   Advanced
+Mobile UI/UX   ██████████░░░░   Advanced
+Firebase       █████████░░░░░   Advanced
+REST API       ████████░░░░░░   Proficient
 ```
 
 </td>
 <td width="50%" valign="top">
 
-**🛠️ &nbsp; Support Skills**
+**🛠️ &nbsp; Supporting Arsenal**
 
 ```text
-Git / GitHub ▰▰▰▰▰▰▰▰▱▱  Lv.80
-Figma        ▰▰▰▰▰▰▰▱▱▱  Lv.70
-Hive DB      ▰▰▰▰▰▰▰▱▱▱  Lv.70
-HTML / CSS   ▰▰▰▰▰▰▱▱▱▱  Lv.65
-C (basics)   ▰▰▰▰▰▱▱▱▱▱  Lv.55
+Git / GitHub   █████████░░░░░   Advanced
+Figma          ████████░░░░░░   Proficient
+Hive DB        ████████░░░░░░   Proficient
+HTML / CSS     ███████░░░░░░░   Intermediate
+C Language     ██████░░░░░░░░   Basics
 ```
 
 </td>
 </tr>
 </table>
 
-### 🗡️ &nbsp; Special Abilities
+### 🗡️ &nbsp; Signature Abilities
 
 <p align="center">
-<img src="https://img.shields.io/badge/Cross--Platform%20Strike-ATK%2095-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Clean%20UI%20Combo-ATK%2088-00d9f5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Debug%20Mode-ATK%2092-FFA116?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Coffee%20Boost-PASSIVE-6F4E37?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cross--Platform_Strike-ATK_95-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Clean_UI_Mastery-ATK_90-38bdf8?style=for-the-badge&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Debug_Mode_ON-ATK_92-f59e0b?style=for-the-badge&logoColor=black" />
+&nbsp;
+<img src="https://img.shields.io/badge/Coffee_Boost-PASSIVE-7c3aed?style=for-the-badge" />
 </p>
 
-### 📜 &nbsp; Philosophy
+<br/>
 
 > *"Great apps feel invisible — you only notice them when they're broken."*
 
 <br/>
 
 <details>
-<summary><b>🎁 &nbsp; ✨ Click for Secret Easter Egg ✨</b></summary>
+<summary><b>🎁 &nbsp; ✨ Secret Achievement Unlocked — Click to Reveal ✨</b></summary>
 
 <br/>
 
-```text
-  ╔══════════════════════════════════════════╗
-  ║  🎮  ACHIEVEMENT UNLOCKED                ║
-  ║      "Curious Visitor"                   ║
-  ║      +100 XP 🌟                          ║
-  ╠══════════════════════════════════════════╣
-  ║  Thanks for exploring my profile!        ║
-  ║                                          ║
-  ║  If you're reading this, you've just     ║
-  ║  unlocked the secret dev handshake 🤝    ║
-  ║                                          ║
-  ║  Drop me a hello at:                     ║
-  ║  📧  hariprasad3614@gmail.com            ║
-  ║                                          ║
-  ║  May your code compile on the first try  ║
-  ║  today. 🚀                               ║
-  ╚══════════════════════════════════════════╝
+```
+  ╔═══════════════════════════════════════════════╗
+  ║   🏆  ACHIEVEMENT UNLOCKED                    ║
+  ║       "Curious Engineer"                      ║
+  ║       +500 XP  ⚡  Rare Drop                 ║
+  ╠═══════════════════════════════════════════════╣
+  ║                                               ║
+  ║   You've discovered the secret handshake 🤝   ║
+  ║   Not everyone makes it this far.             ║
+  ║                                               ║
+  ║   📧  hariprasad3614@gmail.com                ║
+  ║                                               ║
+  ║   May your builds always succeed on CI. 🚀    ║
+  ╚═══════════════════════════════════════════════╝
 ```
 
-**🎲 &nbsp; Random dev joke for you:**
-
-> Why do programmers prefer dark mode?  
+**🎲 &nbsp; Today's Dev Joke:**
+> Why do engineers prefer dark mode?  
 > Because light attracts bugs. 🐛
 
-**🎯 &nbsp; Fun stats about me:**
+**⚙️ &nbsp; Real-time System Stats**
 
-| &nbsp; | &nbsp; |
+| Metric | Value |
 |---|---|
 | ☕ Cups of coffee this week | `∞` |
 | 🐛 Bugs squashed this month | `427` |
-| ⌨️ Keystrokes today | `calculating...` |
-| 🎧 Lines of code written while listening to music | `99.9%` |
-| 💤 Hours of sleep while debugging | `what sleep?` |
+| ⌨️ Keystrokes today | `still counting...` |
+| 🎧 Code written with music | `99.9%` |
+| 💤 Sleep during debugging | `what is sleep?` |
 
 </details>
 
-<!-- Animated wave divider -->
+<br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CONNECT WITH ME                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 ## 🌐 &nbsp; Find Me Across The Internet
 
@@ -176,7 +190,7 @@ C (basics)   ▰▰▰▰▰▱▱▱▱▱  Lv.55
   </a>
   &nbsp;
   <a href="https://twitter.com/_hariiiee" target="_blank">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://instagram.com/_hariiiee" target="_blank">
@@ -196,110 +210,46 @@ C (basics)   ▰▰▰▰▰▱▱▱▱▱  Lv.55
   </a>
 </p>
 
-<!-- Animated wave divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH ARSENAL                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
-## 🛠️ &nbsp; My Tech Arsenal
+## 🛠️ &nbsp; Full Tech Arsenal
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00D9F5&center=true&vCenter=true&width=500&lines=Tools+I+work+with+daily+%E2%9A%A1;Always+learning+something+new+%F0%9F%93%9A" alt="subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=540&lines=Tools+that+power+my+engineering+%E2%9A%A1;Continuously+learning+%26+levelling+up+%F0%9F%93%9A" alt="subtitle" />
 
 <br/><br/>
 
-### 💻 &nbsp; Languages & Core
+### 💻 &nbsp; Languages
 
 <img src="https://skillicons.dev/icons?i=dart,c,html,css,js&theme=dark&perline=5" />
+
+<br/>
 
 ### 📱 &nbsp; Frameworks & Platforms
 
 <img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio,gradle&theme=dark&perline=4" />
 
-### 🎨 &nbsp; Design & Productivity
+<br/>
+
+### 🎨 &nbsp; Design & Prototyping
 
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,notion&theme=dark&perline=4" />
 
-### ⚙️ &nbsp; Version Control & Tools
+<br/>
+
+### ⚙️ &nbsp; Dev Tools & Workflow
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" />
 
 </div>
 
-<!-- Animated wave divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        GITHUB STATS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
-## 📊 &nbsp; The Numbers Don't Lie
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari3614&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9f5&icon_color=00d9f5&text_color=ffffff&include_all_commits=true&count_private=true" />
-</td>
-<td width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari3614&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9F5&fire=00D9F5&currStreakLabel=00D9F5&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=b0b0b0" />
-</td>
-</tr>
-<tr>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari3614&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9f5&text_color=ffffff&langs_count=8" />
-</td>
-<td width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hari3614&theme=tokyonight&utcOffset=5.5" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Profile summary cards - full width row -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hari3614&theme=tokyonight" width="100%" />
-
-</div>
-
-<!-- Animated wave divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        TROPHIES                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏆 &nbsp; Trophy Cabinet
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hari3614&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-  </a>
-</div>
-
-<!-- Animated wave divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ACTIVITY GRAPH                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📈 &nbsp; Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hari3614&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9f5&line=00d9f5&point=ffffff&area=true&area_color=00d9f5" width="100%" />
-</div>
-
-<!-- Animated wave divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SNAKE CONTRIBUTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🐍 &nbsp; Watch My Contributions Get Devoured
 
@@ -311,12 +261,9 @@ C (basics)   ▰▰▰▰▰▱▱▱▱▱  Lv.55
   </picture>
 </div>
 
-<!-- Animated wave divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CURRENT VIBE                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 ## 💭 &nbsp; Current Vibe
 
@@ -327,42 +274,41 @@ C (basics)   ▰▰▰▰▰▱▱▱▱▱  Lv.55
 <br/>
 
 <details align="center">
-  <summary><b>🎯 &nbsp; What I'm Up To Right Now (click to expand)</b></summary>
+  <summary><b>🗂️ &nbsp; What I'm Engineering Right Now — Expand</b></summary>
   <br/>
 
-| &nbsp; | &nbsp; |
+| | |
 |---|---|
-| 🔭 **Working on** | Cross-platform mobile apps with Flutter |
-| 🌱 **Learning** | Advanced state management (Riverpod, Bloc) |
-| 👯 **Collaborating on** | Open-source Flutter packages |
-| 🤔 **Looking for help with** | iOS TestFlight distribution tricks |
-| 💬 **Ask me about** | Flutter, Dart, Firebase, Mobile UI/UX |
-| 📫 **Reach me** | hariprasad3614@gmail.com |
-| 😄 **Pronouns** | He/Him |
-| ⚡ **Fun fact** | I once debugged a layout issue for 6 hours — it was a missing semicolon |
+| 🔭 &nbsp; **Building** | Cross-platform mobile apps with Flutter |
+| 🌱 &nbsp; **Learning** | Advanced state management — Riverpod & Bloc |
+| 👯 &nbsp; **Collaborating** | Open-source Flutter packages |
+| 🤔 &nbsp; **Exploring** | iOS TestFlight distribution & CI/CD |
+| 💬 &nbsp; **Ask me about** | Flutter · Dart · Firebase · Mobile UI/UX |
+| 📫 &nbsp; **Reach me** | hariprasad3614@gmail.com |
+| ⚡ &nbsp; **Fun fact** | I once debugged a layout issue for 6 hours — it was a missing comma |
 
 </details>
 
 <br/>
 
-<!-- Animated wave divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        FOOTER                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9F5&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%99;Don't+forget+to+%E2%AD%90+my+repos!;Let's+build+something+amazing+together+%F0%9F%9A%80" alt="thanks" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%99;Don't+forget+to+%E2%AD%90+repos+you+find+useful!;Let%E2%80%99s+engineer+something+amazing+together+%F0%9F%9A%80" alt="thanks" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20%26%20Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Powered%20by-%E2%98%95%20Coffee-6F4E37?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Engineered%20with-%E2%9D%A4%EF%B8%8F%20%26%20Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Powered%20by-Coffee%20%E2%98%95-7c3aed?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Running%20on-Curiosity-f59e0b?style=for-the-badge" />
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer"/>
+<br/><br/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
